@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi I'm Ohadgips 👋👋
 
+- Currently working on an anti virus 🦠
+- I’m currently learning 📖 C++ and about machine learning 
+- Not much else going on now 👍
 <!--
 **Ohadgips/Ohadgips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

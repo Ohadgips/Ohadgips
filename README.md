@@ -1,8 +1,20 @@
-### Hi I'm Ohadgips 👋👋
+<p align="center">
+ <img src="<a href="https://imgbb.com/"><img src="https://i.ibb.co/4gms0K7/coollogo-com-4998102.png" alt="coollogo-com-4998102" border="0"></a>
+</p>
 
-- Currently working on an anti virus 🦠
-- I’m currently learning 📖 C++ and about machine learning 
-- Not much else going on now 👍
+- ## Currently Working On An Anti Virus 🦠
+- ## Programming Languages & Databases I Know:
+
+  
+[![My Skills](https://skillicons.dev/icons?i=cs,py,cpp,mongodb,sqlite)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohadgips&layout=compact)
+
+- ## Mostly Used Editors:
+
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
+- ## Not Much Else Going On Now 👍
 <!--
 **Ohadgips/Ohadgips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

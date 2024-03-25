@@ -2,7 +2,7 @@
  <img src=<"https://imgbb.com/"><img src="https://i.ibb.co/4gms0K7/coollogo-com-4998102.png" alt="coollogo-com-4998102" border="0"></a>
 </p>
 
-- ## Currently Working On An Anti Virus 🦠
+- ## Currently Working On An Anti Virus: <p align="left"> <img width="96" height="96" src="https://img.icons8.com/color/96/virus-free.png" /> </a> </p>
 - ## Programming Languages & Databases I Know:
 
   

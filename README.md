@@ -8,9 +8,10 @@
   
 [![My Skills](https://skillicons.dev/icons?i=cs,py,cpp,mongodb,sqlite,firebase)](https://skillicons.dev)
 
+- ## Most Used Programming Languages In My Github:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohadgips&layout=compact)
 
-- ## Mostly Used Editors:
+- ## Most Used Programming Editors:
 
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)

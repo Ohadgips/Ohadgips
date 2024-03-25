@@ -6,7 +6,7 @@
 - ## Programming Languages & Databases I Know:
 
   
-[![My Skills](https://skillicons.dev/icons?i=cs,py,cpp,mongodb,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,py,cpp,mongodb,sqlite,firebase)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohadgips&layout=compact)
 

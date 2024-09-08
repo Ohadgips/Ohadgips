@@ -2,9 +2,8 @@
 <a href="https://ibb.co/NnMy8wK"><img src="https://i.ibb.co/tP9J7yD/coollogo-com-87061223.png" alt="coollogo-com-87061223" border="0"></a>
 </p>
 
-<h1 style="text-decoration: none;">Currently Working On An Anti Virus:</h1>
+"<h1 style="text-decoration: none;">Currently Working On...</h1>"
   
-<p align="left"> <a href="https://ibb.co/T4WgM5K"><img src="https://i.ibb.co/CbPHKFJ/logo-no-background.png" alt="logo-no-background" border="0" width="68" height="81"></a> </p>
 
 <h1 style="text-decoration:underline">Programming Languages & Databases I Know:</h1>
   

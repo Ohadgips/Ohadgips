@@ -2,7 +2,7 @@
 <a href="https://ibb.co/NnMy8wK"><img src="https://i.ibb.co/tP9J7yD/coollogo-com-87061223.png" alt="coollogo-com-87061223" border="0"></a>
 </p>
 
-"<h1 style="text-decoration: none;">Currently Working On...</h1>"
+
   
 
 <h1 style="text-decoration:underline">Programming Languages & Databases I Know:</h1>
@@ -19,6 +19,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
 
+<h3 style="text-decoration: none;">Currently Working On...</h1>
 
 <h4 style=border-bottom: 0;>Not Much Else Going On Now 👍</h4>
 

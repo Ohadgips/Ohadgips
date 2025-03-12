@@ -14,9 +14,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohadgips&layout=compact)
 
-
-<h3 style="text-decoration: none;">Currently A Software Engineering Student </h1>
-
 <h4 style=border-bottom: 0;>Enjoy👍</h4>
 
 <!--
